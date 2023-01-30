@@ -15,7 +15,7 @@ public class Main {
         // create a function that gets as an input 2 strings and prints the longer string
 
         // 2.
-        // get an Int number from the userf
+        // get an Int number from the user
         // create an array of 10 elements
         // place random numbers in the array
         // print True id the number from the user exist in the array
